@@ -7,3 +7,9 @@
 [submodule "Bufbomb"]
 	path = Bufbomb
 	url = https://github.com/ShuyangLiu/Bufbomb.git
+[submodule "Perflab"]
+	path = Perflab
+	url = https://github.com/angelaight/Perflab.git
+[submodule "shlab"]
+	path = shlab
+	url = https://github.com/ShuyangLiu/shlab.git
