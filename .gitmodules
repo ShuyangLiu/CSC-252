@@ -13,3 +13,6 @@
 [submodule "shlab"]
 	path = shlab
 	url = https://github.com/ShuyangLiu/shlab.git
+[submodule "Bits"]
+	path = Bits
+	url = https://github.com/ShuyangLiu/Bits.git
