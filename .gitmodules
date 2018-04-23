@@ -1,0 +1,9 @@
+[submodule "malloclab"]
+	path = malloclab
+	url = https://github.com/ShuyangLiu/malloclab.git
+[submodule "Binary-Bomb"]
+	path = Binary-Bomb
+	url = https://github.com/ShuyangLiu/Binary-Bomb.git
+[submodule "Bufbomb"]
+	path = Bufbomb
+	url = https://github.com/ShuyangLiu/Bufbomb.git
